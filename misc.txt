@@ -1,3 +1,6 @@
 https://github.com/fivethirtyeight/data.  This news outlet, started by Nate Silver, focuses on data-driven stories, often about sports and politics. Many of the datasets underlying their stories are online on GitHub.
 
 https://toolbox.google.com/datasetsearch.  This search tool is in Beta, but it provides high quality results integrated with Google Scholar, such that you can see how many papers cite a given dataset.
+
+https://www.hockey-reference.com/boxscores/?__hstc=213859787.8f9b32c47e07c7c162276688b6be7c35.1644600016241.1644600016241.1644600016241.1&__hssc=213859787.1.1644600016241&__hsfp=892684130   This is a hockey reference page that contains information for pretty much all hockey stats (seasons, teams, players, coaches, drafts, box scores) in the history of the NHL.
+
