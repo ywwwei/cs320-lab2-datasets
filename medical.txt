@@ -1,3 +1,6 @@
 https://www.cms.gov/OpenPayments.  This dataset makes financial relationships between physicians and medical companies more transparent. You can extract the total dollar value of payments made to individual physicians.
 
 https://open.fda.gov/tools/downloads/.  The FDA has posted many datasets here, regarding food recalls, adverse reactions to drugs, and approved medical devices.
+
+https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi.   CDC's medical datasets for chronic disease disorder 
+indicators. There are 124 indicators collected from variety of states and cities.
